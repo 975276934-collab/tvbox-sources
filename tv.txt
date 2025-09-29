@@ -198,6 +198,12 @@ https://livessws.hnntv.cn/live/ssws_2500923hnntv.m3u8?_upt=83d15d1e1758858022
 http://8.138.7.223/tv/hxws.m3u8
 兵团卫视，
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+亚洲卫视，
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+法国时尚
+https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+全球时尚，
+https://player.juyun.tv/camera/137932133.m3u8
 
 
 
@@ -208,5 +214,6 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 
  
+
 
 
