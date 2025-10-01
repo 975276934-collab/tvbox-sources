@@ -96,6 +96,22 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 西藏卫视，
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8
+亚洲卫视,
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+法国时尚，
+https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+全球时尚，
+https://player.juyun.tv/camera/137932133.m3u8
+星空卫视，
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+江苏卫视-4K,
+http://111.7.129.57/wh7f454c46tw4248050333_-18392572/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8?icpid=88888888&RTS=1758612967&from=20&hms_devid=18355&prioritypopid=20&online=1758612967&vqe=3
+浙江卫视-4K,
+http://39.134.213.89/wh7f454c46tw14634749_1871634333/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8?icpid=88888888&RTS=1758613028&from=20&hms_devid=263&prioritypopid=20&online=1758613028&vqe=3
+四川卫视-4K,
+http://39.134.213.82/wh7f454c46tw123574519_11079526/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8?icpid=88888888&RTS=1758613137&from=20&hms_devid=203&prioritypopid=20&online=1758613137&vqe=3
+山东卫视-4K,
+http://111.7.129.57/wh7f454c46tw256308433_538808664/iptv.cdn.ha.chinamobile.com/PLTV/888
 金鹰卡通，
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
 嘉佳卡通，
@@ -214,6 +230,7 @@ https://player.juyun.tv/camera/137932133.m3u8
 
 
  
+
 
 
 
