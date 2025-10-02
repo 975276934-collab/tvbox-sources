@@ -194,26 +194,16 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://39.135.168.9/wh7f454c46tw1167139278_339668221/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8?icpid=88888888&RTS=1758605591&from=20&hms_devid=18115&prioritypopid=20&online=1758605591&vqe=3
 深圳财经生活，
 https://cdn3.163189.xyz/163189/szcjsh
-天映频道，
-http://php.jdshipin.com/smt.php?id=Celestia
-凤凰电影，
-http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 澳门莲花，
 https://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 翡翠新闻，
 https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 翡翠台，
 https://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-明珠台，
-https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-三立戏剧，
-http://61.221.215.25:8800/hls/41/index.m3u8
 三沙卫视，
 https://livessws.hnntv.cn/live/ssws_2500923hnntv.m3u8?_upt=83d15d1e1758858022
 海峡卫视，
 http://8.138.7.223/tv/hxws.m3u8
-兵团卫视，
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 亚洲卫视，
 https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 法国时尚
@@ -230,6 +220,7 @@ https://player.juyun.tv/camera/137932133.m3u8
 
 
  
+
 
 
 
