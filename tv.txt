@@ -138,7 +138,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226441/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8
 河南国际频道，
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-精彩中原，
+河南曲艺，
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
 移动戏曲，
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8
@@ -220,6 +220,7 @@ https://player.juyun.tv/camera/137932133.m3u8
 
 
  
+
 
 
 
