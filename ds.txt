@@ -120,7 +120,7 @@ http://39.134.230.37/wh7f454c46tw1534039987_-694914084/iptv.cdn.ha.chinamobile.c
 #EXTINF:-1,民生频道
 http://39.134.230.34/wh7f454c46tw2733041544_1677458296/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8?icpid=88888888&RTS=1760969389&from=20&ocs=2_39.135.168.42_80&hms_devid=18061&online=1760969389&vqe=3
 #EXTINF:-1,法制频道
-http://39.134.230.34/wh7f454c46tw2733041544_1677458296/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8?icpid=88888888&RTS=1760969389&from=20&ocs=2_39.135.168.42_80&hms_devid=18061&online=1760969389&vqe=3
+http://39.134.230.36/wh7f454c46tw2867433806_-2090307251/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226435/index.m3u8?icpid=88888888&RTS=1760969523&from=20&ocs=2_39.135.168.41_80&hms_devid=18062&online=1760969523&vqe=3
 #EXTINF:-1,电视剧频道
 http://39.134.230.36/wh7f454c46tw1772786919_-938100182/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8?icpid=88888888&RTS=1760968428&from=20&ocs=2_39.135.168.42_80&hms_devid=18062&online=1760968428&vqe=3
 #EXTINF:-1,新闻频道
