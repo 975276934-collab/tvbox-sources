@@ -91,8 +91,6 @@ http://39.134.213.97/wh7f454c46tw821949946_-507462869/iptv.cdn.ha.chinamobile.co
 http://39.135.168.52/wh7f454c46tw2840225621_422343266/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8?icpid=88888888&RTS=1759539272&from=20&hms_devid=18451&prioritypopid=20&online=1759539272&vqe=3
 #EXTINF:-1,海南卫视
 http://39.135.168.9/wh7f454c46tw885297039_863189704/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8?icpid=88888888&RTS=1759541612&from=20&ocs=2_111.7.129.16_80&hms_devid=18115&prioritypopid=20&online=1759541612&vqe=3
-#EXTINF:-1,三沙卫视
-https://livessws.hnntv.cn/live/ssws_2500923hnntv.m3u8?_upt=83d15d1e1758858022
 #EXTINF:-1,海峡卫视
 http://8.138.7.223/tv/hxws.m3u8
 #EXTINF:-1,亚洲卫视
@@ -169,8 +167,6 @@ http://39.135.168.42/wh7f454c46tw1381833045_-848180800/iptv.cdn.ha.chinamobile.c
 http://39.135.168.41/wh7f454c46tw1418912316_-1133839610/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8?icpid=88888888&RTS=1758605843&from=20&hms_devid=18448&prioritypopid=20&online=1758605843&vqe=3
 #EXTINF:-1 ,漯河综合
 http://111.7.155.27/wh7f454c46tw145604505_-1848540094/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226530/index.m3u8?icpid=88888888&RTS=1758724828&from=20&ocs=2_111.7.155.30_80&hms_devid=7304&online=1758724828&vqe=3
-#EXTINF:-1, 星空卫视
-http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1, 苏州-4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1, 河南卫视-4K
@@ -199,37 +195,3 @@ https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 https://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1,法国时尚
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1,凤凰香港台
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn    
-#EXTINF:-1,凤凰中文台    
-https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1,凤凰资讯台   
-http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1,新加坡U8
-https://cdn6.101.qzz.io/163189/ch8
-#EXTINF:-1,新加坡U5
-https://cdn6.101.qzz.io/163189/ch5
-#EXTINF:-1,新加坡U
-https://cdn6.101.qzz.io/163189/chu
-#EXTINF:-1,明珠台
-http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1,TVB Plus
-https://cdn6.101.qzz.io/163189/tvbp
-#EXTINF:-1,NOW新闻
-https://cdn.163189.xyz/163189/now
-#EXTINF:-1,华数动画电影
-http://119.123.76.73:8086/hls/78/index.m3u8
-#EXTINF:-1,RTHK31
-http://cdn.163189.xyz/163189/rthk31
-#EXTINF:-1,RTHK32
-http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1,龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1,龙华经典
-https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-#EXTINF:-1,龙华偶像
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1,天映频道
-http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
-#EXTINF:-1,澳视澳门
-http://119.140.58.37:1698/hls/76/index.m3u8
