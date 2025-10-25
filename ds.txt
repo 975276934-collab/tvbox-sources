@@ -197,7 +197,6 @@ http://cdn8.163189.xyz/163189/lhjd
 http://cdn8.163189.xyz/163189/lhkt
 #EXTINF:-1,龙华偶像
 http://cdn8.163189.xyz/163189/lhox
-http://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1,龙华洋片
 http://cdn8.163189.xyz/163189/lhyp
 #EXTINF:-1,法国时尚
