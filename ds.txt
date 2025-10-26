@@ -181,6 +181,22 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1, 深圳财经生活
 https://cdn3.163189.xyz/163189/szcjsh
+#EXTINF:-1,北京文艺
+http://m.061899.xyz/mg/bjwy
+#EXTINF:-1,北京生活
+http://m.061899.xyz/mg/bjsh
+#EXTINF:-1,北京影视
+http://m.061899.xyz/mg/bjys
+#EXTINF:-1,北京纪实
+http://m.061899.xyz/mg/bjjs
+#EXTINF:-1,东方影视
+http://m.061899.xyz/mg/shys
+#EXTINF:-1,东方纪实
+http://m.061899.xyz/mg/xjs
+#EXTINF:-1,红色轮播
+http://m.061899.xyz/mg/hslb
+#EXTINF:-1,乡村振兴
+http://m.061899.xyz/mg/xczx
 #EXTINF:-1, CHC家庭影院
 http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1, CHC动作电影
