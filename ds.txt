@@ -49,6 +49,12 @@ http://39.135.168.30/wh7f454c46tw1664353148_-1021950120/iptv.cdn.ha.chinamobile.
 http://39.134.213.96/wh7f454c46tw1711224992_-1002768337/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8?icpid=88888888&RTS=1758597545&from=20&hms_devid=343&prioritypopid=20&online=1758597545&vqe=3
 #EXTINF:-1,CETV-1
 http://111.7.129.19/wh7f454c46tw1763044135_-116257044/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8?icpid=88888888&RTS=1758597597&from=20&ocs=2_111.7.129.16_80&hms_devid=23&prioritypopid=20&online=1758597597&vqe=3
+#EXTINF:-1, 老故事
+http://111.7.155.15/wh7f454c46tw314084638_-1761022589/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8?icpid=88888888&RTS=1758724997&from=20&ocs=2_39.134.230.33_80&hms_devid=7284&online=1758724997&vqe=3
+#EXTINF:-1,央视-中学生
+http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/51/index.m3u8?msisdn=20251027180048158a8e3959d14bfbb73705de110e281e&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20251027180048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=106.13.250.89&SecurityKey=20251027180048&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1554ffe0f53f9fad816207b286bd0a35&ddCalcu=5135ea52048df0bf6e802fb5730f296f1a8d
+#EXTINF:-1, 河南卫视-4K
+http://111.7.155.13/wh7f454c46tw2848808244_-1647407674/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&RTS=1758723237&from=20&hms_devid=7224&online=1758723237&vqe=3
 #EXTINF:-1,河南卫视
 http://39.134.230.35/wh7f454c46tw2627850218_-1047317547/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8?icpid=88888888&RTS=1758602756&from=20&ocs=2_39.135.168.34_80&hms_devid=18061&online=1758602756&vqe=3
 #EXTINF:-1,江苏卫视
@@ -67,6 +73,8 @@ http://39.135.168.6/wh7f454c46tw3054242106_-1317371850/iptv.cdn.ha.chinamobile.c
 http://39.135.168.38/wh7f454c46tw3086024257_-1312571607/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8?icpid=88888888&RTS=1758603215&from=20&hms_devid=18450&prioritypopid=20&online=1758603215&vqe=3
 #EXTINF:-1,陕西卫视
 http://39.135.168.6/wh7f454c46tw3141842012_1602178337/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226458/index.m3u8?icpid=88888888&RTS=1758603270&from=20&ocs=2_39.135.168.37_80&hms_devid=18116&prioritypopid=20&online=1758603270&vqe=3
+#EXTINF:-1,农林卫视
+http://gslbmgsplive.miguvideo.com/migu/kailu/zgnlws/51/20250804/index.m3u8?msisdn=2025102718005063498eef4ff64b2d8780bb08b7a0df40&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20251027180050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=106.13.250.89&SecurityKey=20251027180050&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0275f81174e2562d1b939c0fe62b0260&ddCalcu=0062e272056bf02861e1f704ce923596b21d
 #EXTINF:-1,贵州卫视
 http://39.135.168.35/wh7f454c46tw3560515201_-58089246/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8?icpid=88888888&RTS=1758603689&from=20&hms_devid=18458&prioritypopid=20&online=1758603689&vqe=3
 #EXTINF:-1,河北卫视
@@ -169,10 +177,6 @@ http://39.135.168.41/wh7f454c46tw1418912316_-1133839610/iptv.cdn.ha.chinamobile.
 http://111.7.155.27/wh7f454c46tw145604505_-1848540094/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226530/index.m3u8?icpid=88888888&RTS=1758724828&from=20&ocs=2_111.7.155.30_80&hms_devid=7304&online=1758724828&vqe=3
 #EXTINF:-1, 苏州-4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1, 河南卫视-4K
-http://111.7.155.13/wh7f454c46tw2848808244_-1647407674/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&RTS=1758723237&from=20&hms_devid=7224&online=1758723237&vqe=3
-#EXTINF:-1, 老故事
-http://111.7.155.15/wh7f454c46tw314084638_-1761022589/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8?icpid=88888888&RTS=1758724997&from=20&ocs=2_39.134.230.33_80&hms_devid=7284&online=1758724997&vqe=3
 #EXTINF:-1, 河北-4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1, 南国都市
@@ -211,10 +215,26 @@ http://pulltest-bj.alivecdn.com/live/hktv-09ali20mp.flv
 http://pulltest-bj.alivecdn.com/live/hktv-09ali21mp.flv
 #EXTINF:-1,pₒₚc电影
 http://pulltest-bj.alivecdn.com/live/hktv-09ali22mp.flv
-#EXTINF:-1,cm+电影
-http://pulltest-bj.alivecdn.com/live/hktv-10ali1.00.3mp.flv
-#EXTINF:-1,美亚电影国
+#EXTINF:-1,美亚电影
 http://pulltest-bj.alivecdn.com/live/hktv-10ali1.00.5mp.flv
+#EXTINF:-1,龙华电影
+http://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1,龙华经典
+http://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1,龙华卡通
+http://cdn8.163189.xyz/163189/lhkt
+#EXTINF:-1,龙华偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1,龙华洋片
+http://cdn8.163189.xyz/163189/lhyp
+#EXTINF:-1,经典香港电影
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=202510271800528ca94bdc82994ce4971ea6493b9b5333&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20251027180052&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=106.13.250.89&SecurityKey=20251027180052&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3f2a470284b4efec79c829087312fbf4&ddCalcu=43ffeb22fa524017307288049b248ecf9e7c
+#EXTINF:-1,抗战经典影片
+http://gslbmgsplive.miguvideo.com/wd-virtuallive5100002089-150/index.m3u8?msisdn=2025102718005336877115f0624734b369f167d25f580e&mdspid=&spid=800033&netType=0&sid=5500002717&pid=2028597139&timestamp=20251027180053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617432318&ParentNodeID=-99&assertID=5500002717&client_ip=106.13.250.89&SecurityKey=20251027180053&promotionId=&mvid=5100002089&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=403e2f23269c80047d37826db5ae2ef8&ddCalcu=84f0ee322e7e20af52b3d266298c7830d074
+#EXTINF:-1,新片放映厅
+http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=20251027180053b9120ef8be1346168bafe03ea28a3cc1&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20251027180053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=106.13.250.89&SecurityKey=20251027180053&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d8a5ac8465af4d2b03df4b4bf77d1584&ddCalcu=4d88e5a2159da07c78f4b645ba4ff4dd320b
+#EXTINF:-1,高清大片
+http://gslbmgsplive.miguvideo.com/migu/kailu/gaoqingdapian/51/20250514/index.m3u8?msisdn=20251027180053e1595e26d3a04b68b6604dbaefa70040&mdspid=&spid=699004&netType=0&sid=5500315684&pid=2028597139&timestamp=20251027180053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629943678&ParentNodeID=-99&assertID=5500315684&client_ip=106.13.250.89&SecurityKey=20251027180053&promotionId=&mvid=5101034200&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2dc0eed695932b71ca763d886f5367f0&ddCalcu=02fde7c26093e05efd668985d933627ba7c1
 #EXTINF:-1,法国时尚
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 #EXTINF:-1,全球时尚
