@@ -191,14 +191,6 @@ http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1,经典香港电影
-http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=202510271800528ca94bdc82994ce4971ea6493b9b5333&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20251027180052&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=106.13.250.89&SecurityKey=20251027180052&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3f2a470284b4efec79c829087312fbf4&ddCalcu=43ffeb22fa524017307288049b248ecf9e7c
-#EXTINF:-1,抗战经典影片
-http://gslbmgsplive.miguvideo.com/wd-virtuallive5100002089-150/index.m3u8?msisdn=2025102718005336877115f0624734b369f167d25f580e&mdspid=&spid=800033&netType=0&sid=5500002717&pid=2028597139&timestamp=20251027180053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617432318&ParentNodeID=-99&assertID=5500002717&client_ip=106.13.250.89&SecurityKey=20251027180053&promotionId=&mvid=5100002089&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=403e2f23269c80047d37826db5ae2ef8&ddCalcu=84f0ee322e7e20af52b3d266298c7830d074
-#EXTINF:-1,新片放映厅
-http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=20251027180053b9120ef8be1346168bafe03ea28a3cc1&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20251027180053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=106.13.250.89&SecurityKey=20251027180053&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d8a5ac8465af4d2b03df4b4bf77d1584&ddCalcu=4d88e5a2159da07c78f4b645ba4ff4dd320b
-#EXTINF:-1,高清大片
-http://gslbmgsplive.miguvideo.com/migu/kailu/gaoqingdapian/51/20250514/index.m3u8?msisdn=20251027180053e1595e26d3a04b68b6604dbaefa70040&mdspid=&spid=699004&netType=0&sid=5500315684&pid=2028597139&timestamp=20251027180053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629943678&ParentNodeID=-99&assertID=5500315684&client_ip=106.13.250.89&SecurityKey=20251027180053&promotionId=&mvid=5101034200&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2dc0eed695932b71ca763d886f5367f0&ddCalcu=02fde7c26093e05efd668985d933627ba7c1
 #EXTINF:-1,法国时尚
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 #EXTINF:-1,全球时尚
