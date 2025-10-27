@@ -53,6 +53,8 @@ http://111.7.129.19/wh7f454c46tw1763044135_-116257044/iptv.cdn.ha.chinamobile.co
 http://111.7.155.15/wh7f454c46tw314084638_-1761022589/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8?icpid=88888888&RTS=1758724997&from=20&ocs=2_39.134.230.33_80&hms_devid=7284&online=1758724997&vqe=3
 #EXTINF:-1,央视-中学生
 http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/51/index.m3u8?msisdn=20251027180048158a8e3959d14bfbb73705de110e281e&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20251027180048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=106.13.250.89&SecurityKey=20251027180048&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1554ffe0f53f9fad816207b286bd0a35&ddCalcu=5135ea52048df0bf6e802fb5730f296f1a8d
+#EXTINF:-1,四海钓鱼
+http://gslbmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=20251027180049658bd219b1fa4606b9f4dad5eabb35d6&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20251027180049&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=106.13.250.89&SecurityKey=20251027180049&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f8fc98ca8c35a5df6fb9fd0dedc2612a&ddCalcu=af28e1f26c7290c8dcead80cd3f59ab5fd6f
 #EXTINF:-1, 河南卫视-4K
 http://111.7.155.13/wh7f454c46tw2848808244_-1647407674/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&RTS=1758723237&from=20&hms_devid=7224&online=1758723237&vqe=3
 #EXTINF:-1,河南卫视
