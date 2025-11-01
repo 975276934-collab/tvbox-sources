@@ -49,9 +49,9 @@ http://39.135.168.30/wh7f454c46tw1664353148_-1021950120/iptv.cdn.ha.chinamobile.
 http://39.134.213.96/wh7f454c46tw1711224992_-1002768337/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8?icpid=88888888&RTS=1758597545&from=20&hms_devid=343&prioritypopid=20&online=1758597545&vqe=3
 #EXTINF:-1,CETV-1
 http://111.7.129.19/wh7f454c46tw1763044135_-116257044/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8?icpid=88888888&RTS=1758597597&from=20&ocs=2_111.7.129.16_80&hms_devid=23&prioritypopid=20&online=1758597597&vqe=3
-#EXTINF:-1, 老故事
+#EXTINF:-1,老故事
 http://111.7.155.15/wh7f454c46tw314084638_-1761022589/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8?icpid=88888888&RTS=1758724997&from=20&ocs=2_39.134.230.33_80&hms_devid=7284&online=1758724997&vqe=3
-#EXTINF:-1, 河南卫视-4K
+#EXTINF:-1,河南卫视-4K
 http://111.7.155.13/wh7f454c46tw2848808244_-1647407674/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&RTS=1758723237&from=20&hms_devid=7224&online=1758723237&vqe=3
 #EXTINF:-1,河南卫视
 http://39.134.230.35/wh7f454c46tw2627850218_-1047317547/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8?icpid=88888888&RTS=1758602756&from=20&ocs=2_39.135.168.34_80&hms_devid=18061&online=1758602756&vqe=3
@@ -171,53 +171,39 @@ http://39.135.168.55/wh7f454c46tw1350207852_-1057154274/iptv.cdn.ha.chinamobile.
 http://39.135.168.42/wh7f454c46tw1381833045_-848180800/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8?icpid=88888888&RTS=1758605805&from=20&hms_devid=18448&prioritypopid=20&online=1758605805&vqe=3
 #EXTINF:-1,法制天地
 http://39.135.168.41/wh7f454c46tw1418912316_-1133839610/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8?icpid=88888888&RTS=1758605843&from=20&hms_devid=18448&prioritypopid=20&online=1758605843&vqe=3
-#EXTINF:-1 ,漯河综合
+#EXTINF:-1,漯河综合
 http://111.7.155.27/wh7f454c46tw145604505_-1848540094/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226530/index.m3u8?icpid=88888888&RTS=1758724828&from=20&ocs=2_111.7.155.30_80&hms_devid=7304&online=1758724828&vqe=3
-#EXTINF:-1, 苏州-4K
+#EXTINF:-1,苏州-4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1, 河北-4K
+#EXTINF:-1,河北-4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1, 南国都市
+#EXTINF:-1,南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1, 浙江少儿
+#EXTINF:-1,浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1, 深圳财经生活
+#EXTINF:-1,深圳财经生活
 https://cdn3.163189.xyz/163189/szcjsh
 #EXTINF:-1,澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1, CHC家庭影院
+#EXTINF:-1,CHC家庭影院
 http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-#EXTINF:-1, CHC动作电影
+#EXTINF:-1,CHC动作电影
 http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-#EXTINF:-1, CHC影迷电影
+#EXTINF:-1,CHC影迷电影
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1,凤凰资讯台
-http://r.jdshipin.com/0Rp07
 #EXTINF:-1,唐人卫视
 https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 #EXTINF:-1,香港环球卫视
 https://play.xghqws.cn/yunqing888/yunqing888.m3u8?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2&rts_degrade=on
-#EXTINF:-1,Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1,Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1,Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1,Astro 欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1,RHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-#EXTINF:-1,亚洲武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1,美亚电影台
-http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1,澳门Macau
 https://get.2sb.org/https://globallive.tdm.com.mo/ch3/ch3.live/chunklist_w2074018415.m3u8
 #EXTINF:-1,CCM
 http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1戏剧影视
+#EXTINF:-1,戏剧影视
 http://xatv-yt.xiancity.cn/live/4/index.m3u8
 #EXTINF:-1,法国时尚
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
