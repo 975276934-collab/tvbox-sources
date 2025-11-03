@@ -71,14 +71,10 @@ http://39.135.168.6/wh7f454c46tw3054242106_-1317371850/iptv.cdn.ha.chinamobile.c
 http://39.135.168.38/wh7f454c46tw3086024257_-1312571607/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8?icpid=88888888&RTS=1758603215&from=20&hms_devid=18450&prioritypopid=20&online=1758603215&vqe=3
 #EXTINF:-1,陕西卫视
 http://39.135.168.6/wh7f454c46tw3141842012_1602178337/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226458/index.m3u8?icpid=88888888&RTS=1758603270&from=20&ocs=2_39.135.168.37_80&hms_devid=18116&prioritypopid=20&online=1758603270&vqe=3
-#EXTINF:-1,农林卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/zgnlws/51/20250804/index.m3u8?msisdn=2025102718005063498eef4ff64b2d8780bb08b7a0df40&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20251027180050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=106.13.250.89&SecurityKey=20251027180050&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0275f81174e2562d1b939c0fe62b0260&ddCalcu=0062e272056bf02861e1f704ce923596b21d
 #EXTINF:-1,贵州卫视
 http://39.135.168.35/wh7f454c46tw3560515201_-58089246/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8?icpid=88888888&RTS=1758603689&from=20&hms_devid=18458&prioritypopid=20&online=1758603689&vqe=3
 #EXTINF:-1,河北卫视
 http://39.135.168.8/wh7f454c46tw3603995113_966967822/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8?icpid=88888888&RTS=1758603733&from=20&ocs=2_39.135.168.7_80&hms_devid=18115&prioritypopid=20&online=1758603733&vqe=3
-#EXTINF:-1,兵团卫视
-http://120.76.248.139/live/bfgd/4200000124.m3u8
 #EXTINF:-1,江西卫视
 http://39.134.213.96/wh7f454c46tw3650917622_-881460520/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?icpid=88888888&RTS=1758603780&from=20&ocs=2_39.135.168.38_80&hms_devid=343&prioritypopid=20&online=1758603780&vqe=3
 #EXTINF:-1,湖南卫视
@@ -197,8 +193,6 @@ https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 #EXTINF:-1,香港环球卫视
 https://play.xghqws.cn/yunqing888/yunqing888.m3u8?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2&rts_degrade=on
-#EXTINF:-1,RHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 #EXTINF:-1,澳门Macau
 https://get.2sb.org/https://globallive.tdm.com.mo/ch3/ch3.live/chunklist_w2074018415.m3u8
 #EXTINF:-1,CCM
