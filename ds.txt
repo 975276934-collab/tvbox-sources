@@ -237,6 +237,8 @@ http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+#EXTINF:-1,爱奇艺
+http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1,唐人卫视
 https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 #EXTINF:-1,香港环球卫视
