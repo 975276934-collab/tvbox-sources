@@ -265,6 +265,8 @@ https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 https://player.juyun.tv/camera/137932133.m3u8
 #EXTINF:-1,爱自然
 https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,东森新闻
+https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
 #EXTINF:-1,翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1,明珠台
