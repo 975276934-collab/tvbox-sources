@@ -211,8 +211,6 @@ http://114.252.112.253:8899/hls/19/index.m3u8
 http://114.252.112.253:8899/hls/20/index.m3u8
 #EXTINF:-1,农牧频道
 http://1.31.14.70:54321/hls/49/index.m3u8
-#EXTINF:-1,文体娱乐
-http://1.31.14.70:54321/hls/53/index.m3u8
 #EXTINF:-1,苏州-4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1,河北-4K
@@ -245,36 +243,6 @@ https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 https://play.xghqws.cn/yunqing888/yunqing888.m3u8?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2&rts_degrade=on
 #EXTINF:-1,澳门Macau
 https://get.2sb.org/https://globallive.tdm.com.mo/ch3/ch3.live/chunklist_w2074018415.m3u8
-#EXTINF:-1,CCM
-http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1,戏剧影视
-http://xatv-yt.xiancity.cn/live/4/index.m3u8
-#EXTINF:-1,翡翠台
-http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1,明珠台
-http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1,TVB Plus
-https://cdn6.101.qzz.io/163189/tvbp
-#EXTINF:-1,TVB 星河
-https://cdn6.101.qzz.io/163189/tvbxh
-#EXTINF:-1,无线新闻台
-https://cdn6.101.qzz.io/163189/wxxw
-#EXTINF:-1,NOW新闻
-https://cdn.163189.xyz/163189/now
-#EXTINF:-1,凤凰中文台
-https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1,凤凰资讯台
-https://cdn6.101.qzz.io/163189/fhzx
-#EXTINF:-1,凤凰香港台
-https://cdn6.101.qzz.io/163189/fhhk
-#EXTINF:-1,RTHK31
-http://cdn.163189.xyz/163189/rthk31
-#EXTINF:-1,RTHK32
-http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1,HOY 77
-https://cdn6.101.qzz.io/163189/hoy
-#EXTINF:-1,ViuTV
-http://cdn.163189.xyz/163189/viu
 #EXTINF:-1,四海垂钓
 http://42.48.106.247:808/hls/79/index.m3u8
 #EXTINF:-1,茶频道
