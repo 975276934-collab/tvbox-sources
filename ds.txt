@@ -265,6 +265,32 @@ https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 https://player.juyun.tv/camera/137932133.m3u8
 #EXTINF:-1,爱自然
 https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1,明珠台
+http://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1,TVB Plus
+https://cdn6.101.qzz.io/163189/tvbp
+#EXTINF:-1,TVB 星河
+https://cdn6.101.qzz.io/163189/tvbxh
+#EXTINF:-1,无线新闻台
+https://cdn6.101.qzz.io/163189/wxxw
+#EXTINF:-1,NOW新闻
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1,凤凰中文台
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1,凤凰资讯台
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1,凤凰香港台
+https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1,RTHK31
+http://cdn.163189.xyz/163189/rthk31
+#EXTINF:-1,RTHK32
+http://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1,HOY 77
+https://cdn6.101.qzz.io/163189/hoy
+#EXTINF:-1,ViuTV
+http://cdn.163189.xyz/163189/viu
 #EXTINF:-1,金鹰卡通
 http://39.135.168.52/wh7f454c46tw1175046849_-1116589190/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8?icpid=88888888&RTS=1759541902&from=20&hms_devid=18451&prioritypopid=20&online=1759541902&vqe=3
 #EXTINF:-1,嘉佳卡通
