@@ -211,8 +211,6 @@ http://114.252.112.253:8899/hls/32/index.m3u8
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 #EXTINF:-1,全球时尚
 https://player.juyun.tv/camera/137932133.m3u8
-#EXTINF:-1,朝鲜
-https://tv.intchoson.com/kctv/index.m3u
 #EXTINF:-1,翡翠台
 http://php.jdshipin.com:8880/smt.php
 #EXTINF:-1,翡翠台
