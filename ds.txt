@@ -201,6 +201,28 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+#EXTINF:-1,TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1,翡翠无线新闻台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1,翡翠无线新闻台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1,美亚电影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1,翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1,凤凰中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1,凤凰资讯台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1,凤凰香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1,POPC
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1,MyTV SUPER 18
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1,MyTV
+http://bxtv.3a.ink/api.php?id=qxjd
 #EXTINF:-1,爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1,唐人卫视
