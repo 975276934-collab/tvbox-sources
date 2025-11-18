@@ -201,12 +201,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1,TVB Plus
-http://bxtv.3a.ink/api.php?id=tvbp
-#EXTINF:-1,翡翠无线新闻台
-http://bxtv.3a.ink/api.php?id=mz
-#EXTINF:-1,翡翠无线新闻台
-http://bxtv.3a.ink/api.php?id=wxxw
 #EXTINF:-1,美亚电影台
 http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1,翡翠台
