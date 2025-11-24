@@ -349,10 +349,6 @@ http://111.7.129.55/wh7f454c46tw169578304_143283383/iptv.cdn.ha.chinamobile.com/
 http://111.7.129.56/wh7f454c46tw214806732_776233173/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227427/index.m3u8?icpid=88888888&RTS=1758613228&from=20&hms_devid=18355&prioritypopid=20&online=1758613228&vqe=3
 #EXTINF:-1,山东卫视-4K超清
 http://111.7.129.57/wh7f454c46tw256308433_538808664/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8?icpid=88888888&RTS=1758613270&from=20&hms_devid=18355&prioritypopid=20&online=1758613270&vqe=3
-#EXTINF:-1,北京卫视4K
-https://migu.188766.xyz/?migutoken=24814c083056d337279a8c68416275cd&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1,移动新动力
-https://migu.188766.xyz/?migutoken=2acb6fdce42225a42571ad09930604e0&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&type=yy
 #EXTINF:-1,少儿动画
 http://114.252.112.253:8899/hls/32/index.m3u8
 #EXTINF:-1,内蒙古少儿
