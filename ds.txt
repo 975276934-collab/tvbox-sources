@@ -291,7 +291,9 @@ https://migu.188766.xyz/?migutoken=02919a1a7c6f21086fd160a1c07f4b5c&id=hk_now&ty
 https://migu.188766.xyz/?migutoken=d8e658d5ebdab62944adf6413efb7abb&id=hk_tvbp&type=dy
 #EXTINF:-1,明珠台
 https://migu.188766.xyz/?migutoken=84cad729b9c7a6eedfa5a66242d6200a&id=hk_mzt&type=dy
-#EXTINF:-1,TV星河
+#EXTINF:-1,Channel [V]
+http://111.221.137.234:44330/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,TVB星河
 https://migu.188766.xyz/?migutoken=883352c67c48d545287f2bb634d5842e&id=hk_tvbxh&type=dy
 #EXTINF:-1,TVB功夫
 https://migu.188766.xyz/?migutoken=00f3f8f084e394a04abc66c507fcafa5&id=hk_yzwx&type=dy
@@ -323,20 +325,18 @@ http://bxtv.3a.ink/api.php?id=popc
 http://bxtv.3a.ink/api.php?id=18
 #EXTINF:-1,MyTV
 http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1,爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1,澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1,澳门奥视
 https://migu.188766.xyz/?migutoken=18a8233f88e822bd9781f3cb08d4fce1&id=hk_asam&type=dy
 #EXTINF:-1,澳门Macau
 https://get.2sb.org/https://globallive.tdm.com.mo/ch3/ch3.live/chunklist_w2074018415.m3u8
-#EXTINF:-1,法国时尚
-https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1,全球时尚
-https://player.juyun.tv/camera/137932133.m3u8
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+#EXTINF:-1,爱奇艺
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1,全球时尚
+https://player.juyun.tv/camera/137932133.m3u8
 #EXTINF:-1,江苏卫视-4K超清
 http://111.7.129.57/wh7f454c46tw4248050333_-18392572/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8?icpid=88888888&RTS=1758612967&from=20&hms_devid=18355&prioritypopid=20&online=1758612967&vqe=3
 #EXTINF:-1,浙江卫视-4K超清
