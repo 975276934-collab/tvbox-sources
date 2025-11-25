@@ -315,8 +315,6 @@ http://cdn.163189.xyz/163189/rthk31
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1,ViuTV
 http://cdn.163189.xyz/163189/viu
-#EXTINF:-1,中天新闻
-http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 #EXTINF:-1,美亚电影台
 http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1,POPC
@@ -329,8 +327,6 @@ http://bxtv.3a.ink/api.php?id=qxjd
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1,澳门奥视
 https://migu.188766.xyz/?migutoken=18a8233f88e822bd9781f3cb08d4fce1&id=hk_asam&type=dy
-#EXTINF:-1,澳门Macau
-https://get.2sb.org/https://globallive.tdm.com.mo/ch3/ch3.live/chunklist_w2074018415.m3u8
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 #EXTINF:-1,爱奇艺
