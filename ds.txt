@@ -291,8 +291,6 @@ https://migu.188766.xyz/?migutoken=02919a1a7c6f21086fd160a1c07f4b5c&id=hk_now&ty
 https://migu.188766.xyz/?migutoken=d8e658d5ebdab62944adf6413efb7abb&id=hk_tvbp&type=dy
 #EXTINF:-1,明珠台
 https://migu.188766.xyz/?migutoken=84cad729b9c7a6eedfa5a66242d6200a&id=hk_mzt&type=dy
-#EXTINF:-1,Channel [V]
-http://111.221.137.234:44330/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,TVB星河
 https://migu.188766.xyz/?migutoken=883352c67c48d545287f2bb634d5842e&id=hk_tvbxh&type=dy
 #EXTINF:-1,TVB功夫
