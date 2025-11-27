@@ -244,8 +244,6 @@ https://migu.188766.xyz/?migutoken=ead9a59f72e70f9cf8226781327b4d4b&id=hk_fct&ty
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1,翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
-#EXTINF:-1,翡翠台4K
-https://migu.188766.xyz/?migutoken=ac3b9493fb440075029843899e31766c&id=hk_fct4k&type=dy
 #EXTINF:-1,无线新闻
 https://migu.188766.xyz/?migutoken=84847c68967ca997eb67ad5a788a1a83&id=hk_wxxw&type=dy
 #EXTINF:-1,无线新闻台
@@ -310,7 +308,7 @@ http://cdn.163189.xyz/163189/rthk31
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1,ViuTV
 http://cdn.163189.xyz/163189/viu
-#EXTINF:-1,VIU TV
+#EXTINF:-1,viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1,美亚电影台
 http://bxtv.3a.ink/api.php?id=meiya
@@ -322,15 +320,13 @@ http://bxtv.3a.ink/api.php?id=popc
 http://bxtv.3a.ink/api.php?id=18
 #EXTINF:-1,MyTV
 http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1,澳视卫星
+#EXTINF:-1,澳视Macau
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1,澳门综艺
-http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1,澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1,澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1,澳门奥视
+#EXTINF:-1,奥视澳门
 https://migu.188766.xyz/?migutoken=18a8233f88e822bd9781f3cb08d4fce1&id=hk_asam&type=dy
 #EXTINF:-1,龙华电影
 http://cdn8.163189.xyz/163189/lhdy
@@ -356,8 +352,6 @@ https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1,AMC Thrillers 电影
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8 
-#EXTINF:-1,韩国电影
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f3760
 #EXTINF:-1,少儿动画
 http://114.252.112.253:8899/hls/32/index.m3u8
 #EXTINF:-1,内蒙古少儿
