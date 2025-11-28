@@ -194,8 +194,6 @@ http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1,重温经典
 https://other.ottiptv.cc/cwjd.m3u8
-#EXTINF:-1,五星体育
-https://other.ottiptv.cc/wxty.m3u8
 #EXTINF:-1,凤凰中文
 http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1,凤凰中文
@@ -236,8 +234,6 @@ http://bxtv.3a.ink/api.php?id=xingying
 http://bxtv.3a.ink/api.php?id=baogu
 #EXTINF:-1,华艺中文台
 http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1,非凡新闻HD
-http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1,TVBS新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1,民视
@@ -252,10 +248,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=46
 http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1,未知2
 http://iptv.4666888.xyz/iptv2A.php?id=39
-#EXTINF:-1,台视综合
-http://iptv.4666888.xyz/iptv2A.php?id=51
-#EXTINF:-1,八度空间
-http://iptv.4666888.xyz/iptv2A.php?id=52
 #EXTINF:-1,Channel[V]
 http://111.221.137.234:44330/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,星空卫视
