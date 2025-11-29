@@ -169,8 +169,6 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1,浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1,深圳财经生活
-https://cdn3.163189.xyz/163189/szcjsh
 #EXTINF:-1,钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,浙江科教
@@ -225,28 +223,12 @@ https://mytv.cdn.loc.cc/o12.php?id=mzt
 https://tmxk.pp.ua/smt.php?id=ctinews
 #EXTINF:-1,中天新闻
 https://tmxk.pp.ua/smt.php?id=ctiasia_twn
-#EXTINF:-1,中天娱乐
-https://tmxk.pp.ua/smt.php?id=ctient
-#EXTINF:-1,爆谷影星台
-http://bxtv.3a.ink/api.php?id=xingying
 #EXTINF:-1,华艺中文台
 http://iptv.4666888.xyz/iptv2A.php?id=37
 #EXTINF:-1,TVBS新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1,TVBS新闻台
 https://tmxk.pp.ua/smt.php?id=tvbs_n
-#EXTINF:-1,TVBS欢乐台
-https://tmxk.pp.ua/smt.php?id=tvbshuanle_twn
-#EXTINF:-1,TVBS精彩台
-http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1,Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1,Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1,Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1,Astro 欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1,HDY77
 https://cdn6.101.qzz.io/163189/hoy
 #EXTINF:-1,HDY 77
