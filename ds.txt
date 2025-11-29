@@ -207,8 +207,6 @@ http://bxtv.3a.ink/api.php?id=fct
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1,无线新闻台
 http://hls.168.us.kg/u/83/master.m3u8
-#EXTINF:-1,now新闻台
-http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1,TVB1
 https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1,TVB娱乐新闻台
@@ -219,28 +217,18 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1,明珠台
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1,中天新闻
-https://tmxk.pp.ua/smt.php?id=ctinews
-#EXTINF:-1,中天新闻
-https://tmxk.pp.ua/smt.php?id=ctiasia_twn
 #EXTINF:-1,华艺中文台
 http://iptv.4666888.xyz/iptv2A.php?id=37
 #EXTINF:-1,TVBS新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1,TVBS新闻台
-https://tmxk.pp.ua/smt.php?id=tvbs_n
 #EXTINF:-1,HDY77
 https://cdn6.101.qzz.io/163189/hoy
-#EXTINF:-1,HDY 77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1,HDY78
 http://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1,RTHK31
 http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1,RTHK32
 http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1,ViuTV
-http://cdn.163189.xyz/163189/viu
 #EXTINF:-1,viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1,美亚电影台
