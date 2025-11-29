@@ -41,8 +41,7 @@ https://migu.188766.xyz/?migutoken=350a470bf8f6144619b6c6d6daf09452&id=CCTV4%E6%
 http://39.134.213.96/wh7f454c46tw1711224992_-1002768337/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8?icpid=88888888&RTS=1758597545&from=20&hms_devid=343&prioritypopid=20&online=1758597545&vqe=3
 #EXTINF:-1,CETV-1
 http://111.7.129.19/wh7f454c46tw1763044135_-116257044/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8?icpid=88888888&RTS=1758597597&from=20&ocs=2_111.7.129.16_80&hms_devid=23&prioritypopid=20&online=1758597597&vqe=3
-#EXTINF:-1,CETV-1
-https://migu.188766.xyz/?migutoken=c5575a1efb5ce6544f8f299b80731435&id=CETV1&type=yy
+#EXTINF:-1,老故事
 http://111.7.155.15/wh7f454c46tw314084638_-1761022589/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8?icpid=88888888&RTS=1758724997&from=20&ocs=2_39.134.230.33_80&hms_devid=7284&online=1758724997&vqe=3
 #EXTINF:-1,河南卫视-4K
 http://111.7.155.13/wh7f454c46tw2848808244_-1647407674/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&RTS=1758723237&from=20&hms_devid=7224&online=1758723237&vqe=3
@@ -172,8 +171,6 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1,深圳财经生活
 https://cdn3.163189.xyz/163189/szcjsh
-#EXTINF:-1,珠江台
-https://tmxk.pp.ua/smt.php?id=zhujiang
 #EXTINF:-1,钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,浙江科教
@@ -204,12 +201,8 @@ https://cdn6.163189.xyz/163189/fhzw
 http://bxtv.3a.ink/api.php?id=fhzx
 #EXTINF:-1,凤凰资讯
 https://cdn6.101.qzz.io/163189/fhzx
-#EXTINF:-1,凤凰资讯台
-https://tmxk.pp.ua/smt.php?id=phoenixinfo_hd
 #EXTINF:-1,凤凰香港
 http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1,凤凰香港
-https://cdn6.101.qzz.io/163189/fhhk
 #EXTINF:-1,翡翠台
 http://bxtv.3a.ink/api.php?id=fct
 #EXTINF:-1,TVB
@@ -254,8 +247,6 @@ http://php.jdshipin.com/smt.php?id=AEC
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1,Astro 欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1,千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1,HDY77
 https://cdn6.101.qzz.io/163189/hoy
 #EXTINF:-1,HDY 77
@@ -276,10 +267,6 @@ http://bxtv.3a.ink/api.php?id=meiya
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1,POPC
 http://bxtv.3a.ink/api.php?id=popc
-#EXTINF:-1,MyTV SUPER 18
-http://bxtv.3a.ink/api.php?id=18
-#EXTINF:-1,MyTV
-http://bxtv.3a.ink/api.php?id=qxjd
 #EXTINF:-1,澳视Macau
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1,澳门莲花
