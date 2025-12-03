@@ -211,10 +211,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1,明珠台
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1,华艺中文台
-http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1,TVBS新闻台
-http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1,HDY77
 https://cdn6.101.qzz.io/163189/hoy
 #EXTINF:-1,HDY78
