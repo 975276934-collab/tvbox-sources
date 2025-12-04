@@ -197,8 +197,6 @@ http://bxtv.3a.ink/api.php?id=fhzx
 https://cdn6.101.qzz.io/163189/fhzx
 #EXTINF:-1,凤凰资讯
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-#EXTINF:-1,凤凰卫视香港台
-http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 #EXTINF:-1,凤凰香港
 http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1,翡翠台
@@ -227,8 +225,6 @@ http://cdn.163189.xyz/163189/rthk32
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1,Now新闻
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1,中视经典
-http://iptv.4666888.xyz/iptv2A.php?id=54
 #EXTINF:-1,BBC_Earth
 http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1,美亚电影台
