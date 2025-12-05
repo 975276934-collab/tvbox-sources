@@ -247,7 +247,7 @@ http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=v58P1M&tk=9eE7TLDncqvW
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=wEwnog&tk=9eE7TLDncqvW
 #EXTINF:-1,华艺中文台
 http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1,未知
+#EXTINF:-1,天映娱乐
 http://iptv.4666888.xyz/iptv2A.php?id=39
 #EXTINF:-1,未知1
 http://iptv.4666888.xyz/iptv2A.php?id=50
