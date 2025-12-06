@@ -237,6 +237,8 @@ http://php.jdshipin.com/smt.php?id=viusix_twn
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1,天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1,天映经典
+http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1,龙华电影
 http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1,龙华经典
