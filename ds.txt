@@ -268,10 +268,22 @@ http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 https://smart.946985.filegear-sg.me/smart.php?id=ettvnews
 #EXTINF:-1,东森戏剧
 https://smart.946985.filegear-sg.me/smart.php?id=ettvdrama
+#EXTINF:-1,东森电影台
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1,华艺中文台
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1,FTV综艺
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1,未知
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1,FTV戏剧
+http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1,TVBS HD
 https://smart.946985.filegear-sg.me/smart.php?id=tvbs
 #EXTINF:-1,民视
 https://smart.946985.filegear-sg.me/smart.php?id=ftvhd_taiwan
+#EXTINF:-1,民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 #EXTINF:-1,爱奇艺
