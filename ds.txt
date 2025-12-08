@@ -181,6 +181,8 @@ http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 #EXTINF:-1,内蒙古经济生活
 http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1,五星体育
+https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1,CHC家庭影院
 http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1,CHC动作电影
@@ -237,6 +239,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 http://php.jdshipin.com/smt.php?id=viusix_twn
 #EXTINF:-1,Now新闻
 http://cdn.163189.xyz/163189/now
+#EXTINF:-1,NOW爆谷台
+http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
+#EXTINF:-1,NOW星影台
+http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
 #EXTINF:-1,天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1,龙华电影
