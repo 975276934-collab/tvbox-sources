@@ -211,8 +211,6 @@ http://hls.168.us.kg/u/83/master.m3u8
 https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1,TVB plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1,TVB功夫
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1,明珠台
 https://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1,HDY77
@@ -241,6 +239,7 @@ http://php.jdshipin.com/smt.php?id=viusix_twn
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1,天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1,龙华电影
 http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1,龙华经典
 http://cdn8.163189.xyz/163189/lhjd
