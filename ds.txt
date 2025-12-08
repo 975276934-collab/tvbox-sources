@@ -195,6 +195,8 @@ https://cdn6.163189.xyz/163189/fhzw
 https://cdn6.101.qzz.io/163189/fhzx
 #EXTINF:-1,凤凰资讯
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+#EXTINF:-1,翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1,华丽翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1,千禧经典台
