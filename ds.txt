@@ -197,10 +197,14 @@ https://cdn6.163189.xyz/163189/fhzw
 https://cdn6.101.qzz.io/163189/fhzx
 #EXTINF:-1,凤凰资讯
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+#EXTINF:-1,凤凰香港台
+http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1,翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1,华丽翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1,中天新闻台
+http://dungou.szius.com:8080/live/yifatv-ztxw02.flv
 #EXTINF:-1,千禧经典台
 http://php.jdshipin.com/smt.php?id=Tvbclassic
 #EXTINF:-1,TVBS新闻台
@@ -267,6 +271,8 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1,邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1,美亚电影台
+http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1,澳视Macau
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1,澳门莲花
