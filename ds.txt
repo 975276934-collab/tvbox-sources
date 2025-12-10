@@ -205,8 +205,6 @@ http://php.jdshipin.com/smt.php?id=Tvbjade
 http://php.jdshipin.com/smt.php?id=Tvbclassic
 #EXTINF:-1,TVBS新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1,TVB
-https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1,无线新闻台
 http://hls.168.us.kg/u/83/master.m3u8
 #EXTINF:-1,TVB1
@@ -219,10 +217,6 @@ https://mytv.cdn.loc.cc/o12.php?id=mzt
 https://cdn6.101.qzz.io/163189/hoy
 #EXTINF:-1,HDY78
 http://hls.168.us.kg/u/78/master.m3u8
-#EXTINF:-1,RTHK31
-http://cdn.163189.xyz/163189/rthk31
-#EXTINF:-1,RTHK32
-http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1,Astro AOD
 http://php.jdshipin.com/smt.php?id=Aodhd
 #EXTINF:-1,Astro AEC
