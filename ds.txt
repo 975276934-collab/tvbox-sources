@@ -255,10 +255,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=37
 http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1,民视
 http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1,NOW爆谷台
-http://23.237.228.133/live2/baogutai.m3u8
-#EXTINF:-1,NOW星影台
-http://23.237.228.133/live2/xingyingtai.m3u8
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 #EXTINF:-1,爱奇艺
