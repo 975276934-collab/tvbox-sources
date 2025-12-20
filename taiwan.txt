@@ -97,6 +97,16 @@ https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv062
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv061
 #EXTINF:-1,靖天映畫
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
+#EXTINF:-1,亞太電視綜合台http://play2.one-tv.com/live/onetv.m3u8
+#EXTINF:-1,龍祥時代電影台湾台http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=lungxiangtime_twn&token=ffmking
+#EXTINF:-1,好萊塢電影台湾台http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hollywoodmovies_twn&token=ffmking
+#EXTINF:-1,東森電影台http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvmovie&token=ffmking
+#EXTINF:-1,東森洋片台http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvwestern&token=ffmking
+#EXTINF:-1,Catchplay電影台http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=catchplay_twn&token=ffmking
+#EXTINF:-1,AXN台灣台http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=ffmking
+#EXTINF:-1,HBO亞洲http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=ffmking
+#EXTINF:-1,EZTV-1(義大利歐洲華文電視台)
+http://oh.eztv.vip/live/eztv1.m3u8
 #EXTINF:-1,台灣戲劇台
 https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn22
 #EXTINF:-1,視納華仁紀實
@@ -119,3 +129,4 @@ http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=phoenixtv_hd&to
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=phoenixinfo_hd&token=ffmking
 #EXTINF:-1,鳳凰衛視香港台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hkphoenix_twn&token=ffmking
+
