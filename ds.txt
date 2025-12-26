@@ -197,11 +197,9 @@ https://cdn6.101.qzz.io/163189/fhzx
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 #EXTINF:-1,凤凰香港台
 http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
-#EXTINF:-1,翡翠台
-http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1,华丽翡翠台
 https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1,华丽翡翠台
+#EXTINF:-1,翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1,千禧经典台
 http://php.jdshipin.com/smt.php?id=Tvbclassic
