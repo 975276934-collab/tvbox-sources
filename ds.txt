@@ -187,6 +187,10 @@ http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_se
 http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1,CHC影迷电影
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1,天映频道
+http://cdn10.163189.xyz/163189/typd
+#EXTINF:-1,天映经典
+http://cdn10.163189.xyz/163189/ccm
 #EXTINF:-1,重温经典
 https://other.ottiptv.cc/cwjd.m3u8
 #EXTINF:-1,凤凰中文
