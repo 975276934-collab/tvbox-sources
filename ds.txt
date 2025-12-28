@@ -193,6 +193,8 @@ http://cdn10.163189.xyz/163189/typd
 http://cdn10.163189.xyz/163189/ccm
 #EXTINF:-1,PopC
 https://live.catvod.com/iptv.php?id=popc
+#EXTINF:-1,NOW星影台
+https://live.catvod.com/iptv.php?id=now_xy
 #EXTINF:-1,重温经典
 https://other.ottiptv.cc/cwjd.m3u8
 #EXTINF:-1,凤凰中文
