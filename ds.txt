@@ -191,6 +191,8 @@ http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn
 http://cdn10.163189.xyz/163189/typd
 #EXTINF:-1,天映经典
 http://cdn10.163189.xyz/163189/ccm
+#EXTINF:-1,PopC
+https://live.catvod.com/iptv.php?id=popc
 #EXTINF:-1,重温经典
 https://other.ottiptv.cc/cwjd.m3u8
 #EXTINF:-1,凤凰中文
