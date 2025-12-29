@@ -271,8 +271,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=50
 http://iptv.4666888.xyz/iptv2A.php?id=55
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1,Y+剧场
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=eqoXGY&tk=RutcEtui3ueC
 #EXTINF:-1,电影频道
 https://tv.2cf.de5.net/tv/3221225763/ts.m3u8
 #EXTINF:-1,黑莓电影
@@ -285,18 +283,6 @@ https://tv.2cf.de5.net/tv/3221225703/ts.m3u8
 https://tv.2cf.de5.net/tv/3221225690/ts.m3u8
 #EXTINF:-1,炫舞未来
 https://tv.2cf.de5.net/tv/3221225973/ts.m3u8
-#EXTINF:-1,爱情戏剧
-https://tv.2cf.de5.net/tv/3221225698/ts.m3u8
-#EXTINF:-1,古装剧场
-https://tv.2cf.de5.net/tv/3221225706/ts.m3u8
-#EXTINF:-1,欢乐剧场
-https://tv.2cf.de5.net/tv/3221226049/ts.m3u8
-#EXTINF:-1,家庭剧场
-https://tv.2cf.de5.net/tv/3221225743/ts.m3u8
-#EXTINF:-1,精品大剧
-https://tv.2cf.de5.net/tv/3221225737/ts.m3u8
-#EXTINF:-1,军旅剧场
-https://tv.2cf.de5.net/tv/3221225727/ts.m3u8
 #EXTINF:-1,爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1,内蒙古少儿
