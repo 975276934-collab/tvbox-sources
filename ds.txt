@@ -213,6 +213,8 @@ http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn
 http://cdn10.163189.xyz/163189/typd
 #EXTINF:-1,天映经典
 http://cdn10.163189.xyz/163189/ccm
+#EXTINF:-1,Now星影台http://117.50.85.18:8080/live/live_streaming_nowxy.flv
+#EXTINF:-1,Now爆谷台http://117.50.85.18:8080/live/live_streaming_nowbg.flv
 #EXTINF:-1,美亚电影台
 http://143.14.105.196:20002/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1,天映频道
