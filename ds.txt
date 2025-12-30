@@ -29,6 +29,8 @@ http://39.134.230.37/wh7f454c46tw1465252252_-184835231/iptv.cdn.ha.chinamobile.c
 http://39.134.230.37/wh7f454c46tw1510466598_-2087830692/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8?icpid=88888888&RTS=1758597344&from=20&ocs=2_39.135.168.9_80&hms_devid=18062&online=1758597344&vqe=3
 #EXTINF:-1,CCTV-15音乐
 http://111.7.129.18/wh7f454c46tw1553437262_-1464605185/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8?icpid=88888888&RTS=1758597387&from=20&hms_devid=103&prioritypopid=20&online=1758597387&vqe=3
+#EXTINF:-1,CCTV-15奥林匹克
+https://tv.2cf.de5.net/tv/3221225956/ts.m3u8
 #EXTINF:-1,CGTN
 http://39.135.168.35/wh7f454c46tw1615732810_-1700997689/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8?icpid=88888888&RTS=1758597449&from=20&hms_devid=18458&prioritypopid=20&online=1758597449&vqe=3
 #EXTINF:-1,CCTV-17农业农村
@@ -104,7 +106,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226415/index.m3u8
 #EXTINF:-1,安多卫视
 https://tv.2cf.de5.net/tv/3221226271/ts.m3u8
 #EXTINF:-1,青海卫视
-http://111.7.129.20/wh7f454c46tw988919135_-163135139/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8?icpid=88888888&RTS=1759541715&from=20&ocs=2_111.7.129.15_80&hms_devid=163&prioritypopid=20&online=1759541715&vqe=3
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
 #EXTINF:-1,西藏卫视
 http://39.135.168.8/wh7f454c46tw1117001521_-1891963730/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8?icpid=88888888&RTS=1759541843&from=20&ocs=2_111.7.129.15_80&hms_devid=18115&prioritypopid=20&online=1759541843&vqe=3
 #EXTINF:-1,山东教育卫视
@@ -243,7 +245,7 @@ https://6.cdn.loc.cc/163189.php?id=tvb1
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1,明珠台
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:ow新闻
+#EXTINF:Now新闻
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1,Mytv
 http://iptv.4666888.xyz/iptv2A.php?id=22
