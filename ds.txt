@@ -27,7 +27,7 @@ http://39.134.230.37/wh7f454c46tw1397499675_1139666829/iptv.cdn.ha.chinamobile.c
 http://39.134.230.37/wh7f454c46tw1465252252_-184835231/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8?icpid=88888888&RTS=1758597299&from=20&ocs=2_39.135.168.9_80&hms_devid=18062&online=1758597299&vqe=3
 #EXTINF:-1,CCTV-14少儿
 http://39.134.230.37/wh7f454c46tw1510466598_-2087830692/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8?icpid=88888888&RTS=1758597344&from=20&ocs=2_39.135.168.9_80&hms_devid=18062&online=1758597344&vqe=3
-EXTINF:-1,CCTV-15音乐
+#EXTINF:-1,CCTV-15音乐
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
 #EXTINF:-1,CCTV-16奥林匹克
 https://tv.2cf.de5.net/tv/3221225956/ts.m3u8
