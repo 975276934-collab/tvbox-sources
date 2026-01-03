@@ -211,14 +211,6 @@ http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 http://58.46.71.147:8188/udp/239.76.253.110:9000$湖南电信11
 #EXTINF:-1,纪实科教
 http://58.46.71.147:8188/udp/239.76.254.65:9000$湖南电信11
-#EXTINF:-1,精彩青少
-http://183.236.43.98:4013/udp/239.77.1.22:5146$广东电信11
-#EXTINF:-1,精彩篮球
-http://183.236.43.98:4013/udp/239.77.1.21:5146$广东电信11
-#EXTINF:-1,茶频道
-http://58.46.71.147:8188/udp/239.76.252.239:9000$湖南电信11
-#EXTINF:-1,天元围棋
-http://27.191.202.133:19999/rtp/239.254.201.156:6270$河北电信11
 #EXTINF:-1,CHC家庭影院
 http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1,CHC动作电影
