@@ -113,10 +113,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
 http://39.135.168.8/wh7f454c46tw1117001521_-1891963730/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8?icpid=88888888&RTS=1759541843&from=20&ocs=2_111.7.129.15_80&hms_devid=18115&prioritypopid=20&online=1759541843&vqe=3
 #EXTINF:-1,山东教育卫视
 http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1,凤凰卫视中文（测试）
-http://58.46.71.147:8188/udp/239.76.253.134:9000$湖南电信11
-#EXTINF:-1,凤凰卫视资讯台（测试）
-http://58.46.71.147:8188/udp/239.76.253.135:9000$湖南电信11
 #EXTINF:-1,都市频道
 http://39.134.230.37/wh7f454c46tw1534039987_-694914084/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8?icpid=88888888&RTS=1759542261&from=20&ocs=2_39.135.168.41_80&hms_devid=18062&online=1759542261&vqe=3
 #EXTINF:-1,民生频道
