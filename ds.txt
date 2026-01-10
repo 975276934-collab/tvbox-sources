@@ -154,11 +154,11 @@ http://39.135.168.2/wh7f454c46tw993196901_82449963/iptv.cdn.ha.chinamobile.com/P
 #EXTINF:-1,河南导视
 http://39.135.168.38/wh7f454c46tw1041716162_-60402552/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8?icpid=88888888&RTS=1758605465&from=20&hms_devid=18450&prioritypopid=20&online=1758605465&vqe=3
 #EXTINF:-1,河南移动电视
-_8M1080,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/1.m3u8?fmt=ts2hls
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/1.m3u8?fmt=ts2hls
 #EXTINF:-1,健康河南
-_8M1080,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227091/1.m3u8?fmt=ts2hls
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227091/1.m3u8?fmt=ts2hls
 #EXTINF:-1,咪咕视界
-_8M1080,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227258/1.m3u8?fmt=ts2hls
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227258/1.m3u8?fmt=ts2hls
 #EXTINF:-1,欢腾购物
 http://39.135.168.8/wh7f454c46tw1119655469_1392943214/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8?icpid=88888888&RTS=1758605543&from=20&hms_devid=18115&prioritypopid=20&online=1758605543&vqe=3
 #EXTINF:-1,郑州综合
@@ -167,7 +167,8 @@ http://39.135.168.9/wh7f454c46tw1167139278_339668221/iptv.cdn.ha.chinamobile.com
 http://39.135.168.8/wh7f454c46tw1193972293_-1722830049/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226407/index.m3u8?icpid=88888888&RTS=1758605618&from=20&hms_devid=18115&prioritypopid=20&online=1758605618&vqe=3
 #EXTINF:-1,豫剧频道
 http://39.135.168.8/wh7f454c46tw1221072620_1332745135/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8?icpid=88888888&RTS=1758605645&from=20&hms_devid=18115&prioritypopid=20&online=1758605645&vqe=3
-#EXTINF:-1,国学频道_8M1080,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227154/1.m3u8?fmt=ts2hls
+#EXTINF:-1,国学频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227154/1.m3u8?fmt=ts2hls
 #EXTINF:-1,妇女儿童
 http://39.135.168.8/wh7f454c46tw1248988590_789886952/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226403/index.m3u8?icpid=88888888&RTS=1758605673&from=20&hms_devid=18115&prioritypopid=20&online=1758605673&vqe=3
 #EXTINF:-1,郑州都市
