@@ -254,6 +254,10 @@ http://cdn8.163189.xyz/163189/lhrh
 http://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1,龙华洋片
 http://cdn8.163189.xyz/163189/lhyp
+#EXTINF:-1,东森电影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1,靖天电影台
+http://iptv.4666888.xyz/iptv2A.php?id=56
 #EXTINF:-1,凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1,凤凰资讯
