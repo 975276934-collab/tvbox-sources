@@ -145,7 +145,8 @@ http://39.135.168.41/wh7f454c46tw839483023_1164638627/iptv.cdn.ha.chinamobile.co
 http://39.135.168.2/wh7f454c46tw882313684_-146272927/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8?icpid=88888888&RTS=1758605306&from=20&ocs=2_39.135.168.5_80&hms_devid=18113&prioritypopid=20&online=1758605306&vqe=3
 #EXTINF:-1,美食汇
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-#EXTINF:-1,棋牌汇http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8 
+#EXTINF:-1,棋牌汇
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8 
 #EXTINF:-1,调解剧场
 http://39.135.168.2/wh7f454c46tw993196901_82449963/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8?icpid=88888888&RTS=1758605417&from=20&ocs=2_39.135.168.5_80&hms_devid=18113&prioritypopid=20&online=1758605417&vqe=3
 #EXTINF:-1,河南导视
