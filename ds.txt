@@ -369,12 +369,6 @@ https://cdn6.163189.xyz/163189/asam
 https://cdn6.163189.xyz/163189/as
 #EXTINF:-1,纬來体育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1,公视
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1,moms TV
-rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1,非凡新闻
-rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1,亚美电影
 http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1,华艺中文台
