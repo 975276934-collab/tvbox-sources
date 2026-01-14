@@ -33,6 +33,10 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
 https://tv.2cf.de5.net/tv/3221225956/ts.m3u8
 #EXTINF:-1,CCTV-17农业农村
 http://39.135.168.30/wh7f454c46tw1664353148_-1021950120/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8?icpid=88888888&RTS=1758597498&from=20&ocs=2_39.135.168.3_80&hms_devid=18366&prioritypopid=20&online=1758597498&vqe=3
+#EXTINF:-1,CCTV-4k
+https://iptv.catvod.com/live.php?id=CCTV4K
+#EXTINF:-1,CCTV-8k
+https://iptv.catvod.com/live.php?id=CCTV8K
 #EXTINF:-1,CGTN
 http://39.135.168.35/wh7f454c46tw1615732810_-1700997689/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8?icpid=88888888&RTS=1758597449&from=20&hms_devid=18458&prioritypopid=20&online=1758597449&vqe=3
 #EXTINF:-1,CCTV-5+体育赛事
@@ -103,6 +107,10 @@ https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1,甘肃卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226415/index.m3u8
+#EXTINF:-1,兵团卫视
+https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
+#EXTINF:-1,宁夏卫视
+https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
 #EXTINF:-1,广东珠江
 http://iptv.4666888.xyz/iptv2A.php?id=19
 #EXTINF:-1,三沙卫视
