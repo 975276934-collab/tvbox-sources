@@ -33,6 +33,10 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
 https://tv.2cf.de5.net/tv/3221225956/ts.m3u8
 #EXTINF:-1,CCTV-17农业农村
 http://39.135.168.30/wh7f454c46tw1664353148_-1021950120/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8?icpid=88888888&RTS=1758597498&from=20&ocs=2_39.135.168.3_80&hms_devid=18366&prioritypopid=20&online=1758597498&vqe=3
+#EXTINF:-1,电视指南
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+#EXTINF:-1,兵器科技
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1,CCTV-4k
 https://iptv.catvod.com/live.php?id=CCTV4K
 #EXTINF:-1,CCTV-8k
