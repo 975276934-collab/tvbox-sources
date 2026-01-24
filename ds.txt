@@ -370,15 +370,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=56
 #EXTINF:-1,纬來育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1,凤凰中文
-https://mgev.188766.xyz/?migutoken=224c3251edf637830af6c16a012522df&id=fhzw&pp=1
-#EXTINF:-1,凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1,凤凰资讯
-https://mgev.188766.xyz/?migutoken=e0173d279954b8653bfeeecb32e65d79&id=fhzx&pp=1
-#EXTINF:-1,凤凰资讯
 https://cdn6.101.qzz.io/163189/fhzx
-#EXTINF:-1,凤凰香港
-https://mgev.188766.xyz/?migutoken=20caec526398afec73103d2cf03a7fd9&id=fhhk&pp=1
 #EXTINF:-1,凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1,凤凰电影
