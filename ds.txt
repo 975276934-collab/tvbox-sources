@@ -548,11 +548,13 @@ rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1,凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1,凤凰资讯
-https://cdn6.101.qzz.io/163189/fhzx
+http://j.s.bkpcp.top/js/fhzx
 #EXTINF:-1,凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1,凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1,美亚电影台
+http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1,翡翠台
 http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 #EXTINF:-1,澳门莲花
