@@ -39,6 +39,8 @@ http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1,CCTV4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
+#EXTINF:-1,世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1,CETV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1,CETV2
@@ -61,6 +63,8 @@ http://39.134.230.35/wh7f454c46tw2627850218_-1047317547/iptv.cdn.ha.chinamobile.
 http://39.135.168.9/wh7f454c46tw2778045846_-940087187/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8?icpid=88888888&RTS=1758602907&from=20&ocs=2_39.135.168.38_80&hms_devid=18115&prioritypopid=20&online=1758602907&vqe=3
 #EXTINF:-1,北京卫视
 http://39.135.168.36/wh7f454c46tw2815707448_-706045996/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226452/index.m3u8?icpid=88888888&RTS=1758602944&from=20&hms_devid=18458&prioritypopid=20&online=1758602944&vqe=3
+#EXTINF:-1,北京卫视4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227122/1.m3u8?fmt=ts2hls
 #EXTINF:-1,广东卫视
 http://39.135.168.37/wh7f454c46tw2867202064_-1516550941/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8?icpid=88888888&RTS=1758602996&from=20&hms_devid=18450&prioritypopid=20&online=1758602996&vqe=3
 #EXTINF:-1,黑龙江卫视
@@ -161,6 +165,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
 http://39.135.168.7/wh7f454c46tw762546279_2625578/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8?icpid=88888888&RTS=1758605186&from=20&ocs=2_111.7.129.17_80&hms_devid=18116&prioritypopid=20&online=1758605186&vqe=3
 #EXTINF:-1,收藏天下
 http://39.135.168.42/wh7f454c46tw807308847_-1724564399/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8?icpid=88888888&RTS=1758605231&from=20&hms_devid=18448&prioritypopid=20&online=1758605231&vqe=3
+#EXTINF:-1,文物宝库
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8?fmt=ts2hls
 #EXTINF:-1,河南戏曲
 http://39.135.168.41/wh7f454c46tw839483023_1164638627/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8?icpid=88888888&RTS=1758605263&from=20&hms_devid=18448&prioritypopid=20&online=1758605263&vqe=3
 #EXTINF:-1,中华功夫
@@ -571,6 +577,8 @@ https://cdn6.163189.xyz/163189/as
 http://iptv.4666888.xyz/iptv2A.php?id=40
 #EXTINF:-1,東森电影
 http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1,东森洋片
+https://hls.iill.top/api/dsyp/index.m3u8
 #EXTINF:-1,TVBS新聞
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1,TVBS精采
