@@ -503,6 +503,8 @@ http://112.46.105.20:8009/hls/22/index.m3u8
 http://112.46.105.20:8009/hls/20/index.m3u8
 #EXTINF:-1,四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+#EXTINF:-1,峨眉电影台
+http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
 #EXTINF:-1,云南娱乐
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 #EXTINF:-1,云南都市
@@ -533,6 +535,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227123/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226881/1.m3u8?fmt=ts2hls
 #EXTINF:-1,SiTV游戏风云
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226910/1.m3u8?fmt=ts2hls
+#EXTINF:-1,百事通
+http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
 #EXTINF:-1,CHC家庭影院
 http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1,CHC动作电影
@@ -558,11 +562,13 @@ rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1,凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1,凤凰资讯
-http://j.s.bkpcp.top/js/fhzx
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 #EXTINF:-1,凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1,凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1,电影台
+http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
 #EXTINF:-1,美亚电影台
 http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1,翡翠台
@@ -627,6 +633,8 @@ http://hls.168.us.kg/u/332/master.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1,民视
 http://iptv.4666888.xyz/iptv2A.php?id=55
+EXTINF:-1,天文AOD
+http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 #EXTINF:-1,爱奇艺
