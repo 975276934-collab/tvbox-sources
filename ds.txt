@@ -587,6 +587,11 @@ http://iptv.4666888.xyz/iptv2A.php?id=40
 http://iptv.4666888.xyz/iptv2A.php?id=48
 #EXTINF:-1,东森洋片
 https://hls.iill.top/api/dsyp/index.m3u8
+#EXTINF:-1,PoPc
+http://pull-vivek.speedws.com/live/aaapopc.flv
+#EXTINF:-1,龙祥时代
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQsilXP7R7vrttApoprEBxK2-CCx_u1xjj4vEJ8zFIkwHWUDaVl2dKP5coSwjRk2Y-UHVP8HVJ_37hr3se-l9pUXT1E-Rj5DOMkWvBgV5HGgZMOpuktjWCvborJtzZ5C2ccHGjN_1l0VlRsmcywUJAIKeXTQNekOltALBSsQjKzAQ7TvR7aXxqJDmVHYdAkaLhg.m3u8?u=1756878715
+
 #EXTINF:-1,TVBS新聞
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1,TVBS精采
@@ -633,6 +638,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=46
 http://iptv.4666888.xyz/iptv2A.php?id=55
 EXTINF:-1,天文AOD
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+#EXTINF:-1,myTVSUPER
+http://pull-vivek.speedws.com/live/aaahjfc.flv
+#EXTINF:-1,myTVSUPER
+http://pull-vivek.speedws.com/live/aaahyjt.flv
 #EXTINF:-1,搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 #EXTINF:-1,爱奇艺
