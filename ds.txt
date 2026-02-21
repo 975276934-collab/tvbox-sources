@@ -177,7 +177,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227091/1.m3u8?fmt=ts2hls
 #EXTINF:-1,咪咕视界
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227258/1.m3u8?fmt=ts2hls
-#EXTINF:-1,郑州综合http://39.135.168.9/wh7f454c46tw1167139278_339668221/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8?icpid=88888888&RTS=1758605591&from=20&hms_devid=18115&prioritypopid=20&online=1758605591&vqe=3
+#EXTINF:-1,郑州综合
+http://39.135.168.9/wh7f454c46tw1167139278_339668221/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8?icpid=88888888&RTS=1758605591&from=20&hms_devid=18115&prioritypopid=20&online=1758605591&vqe=3
 #EXTINF:-1,文体旅游
 http://39.135.168.8/wh7f454c46tw1193972293_-1722830049/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226407/index.m3u8?icpid=88888888&RTS=1758605618&from=20&hms_devid=18115&prioritypopid=20&online=1758605618&vqe=3
 #EXTINF:-1,豫剧频道
@@ -514,12 +515,14 @@ http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1,龙华经典
 http://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1,龙华偶像http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1,龙华偶像
+http://cdn8.163189.xyz/163189/lhox
 #EXTINF:-1,龙华日韩
 http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1,龙华戏剧
 http://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1,纬來综合http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
+#EXTINF:-1,纬來综合
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
 #EXTINF:-1,凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1,凤凰资讯
@@ -528,7 +531,8 @@ https://ytb.178.indevs.in/?id=fN9uYWCjQaw
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1,凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1,美亚电影台http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1,美亚电影台
+http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1,翡翠台
 http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 #EXTINF:-1,澳门莲花
