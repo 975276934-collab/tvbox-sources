@@ -443,6 +443,10 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
 #EXTINF:-1,唐河综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227063/index.m3u8
+#EXTINF:-1,梧州新闻
+http://live.wuzhourm.cn:80/xwzh/index.m3u8
+#EXTINF:-1,梧州教育生活
+http://live.wuzhourm.cn:80/jysh/index.m3u8
 #EXTINF:-1,财富天下
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226334/index.m3u8
 #EXTINF:-1,乐游
