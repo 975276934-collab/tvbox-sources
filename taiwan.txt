@@ -33,10 +33,14 @@ http://pull-vivek.speedws.com/live/aaahjfc.flv
 http://pull-vivek.speedws.com/live/aaaxqt.flv
 #EXTINF:-1,黄金华剧台
 http://pull-vivek.speedws.com/live/aaahjhj.flv
-#EXTINF:-1,未知1
+#EXTINF:-1,天映频道
 http://pull-vivek.speedws.com/live/aaatypd.flv
 #EXTINF:-1,天映经典
 http://pull-vivek.speedws.com/live/aaatyjd.flv
+#EXTINF:-1,PHK31
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUCgUMFxpvqA8dSUYiU4X7yHIdDC1SKaLMnZAHxKXXjN1orwY6nPIVQMvH3Yh-FWw6SfhDlmpPF3LKPGXer140L5SPCRHkZQjACiXiICgrjmoL6LOFgfj9imF_Gw0vR0uIaFjmIueVYU4nJiupZsh9dt4Glzgyb8tGP61nUaXDdVYa1t9mzGvV1Qk8YJWdRDWJgoJ8Qg-DcgdMycgfmip1_g.m3u8?u=1756878715
+#EXTINF:-1,PHK32
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUIOHDJk3ziIb3g4W__5ukhdlwmkKymkgIHcxFosW2veerLYqHcSrwQro7VRdHepvJ9gZOhFPx4xR_g_HaRL8GZ9FgxkEOj5enSKaUBgbAgU7klRA9b-B6AaFoat5duOspG_Ss2ZngB_eVDwdb-v0T6qKqySxGQrNzB6ka6iYRhiCN2i87a7iW9pvFWPMV2j-aaw83SxwsU_zao-skEJzkJw.m3u8?u=1756878715
 #EXTINF:-1,HOY 76
 http://pull-vivek.speedws.com/live/aaahoy76.flv
 #EXTINF:-1,HOY 77
@@ -69,7 +73,7 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYFd42nGow7m-55c68wtLQCShEW-FSptVBq-QsJdmB4fjbbnEtUCos8q_E8WqrTv5D_vJw_DCNdSh3FuhnkbgUCnvGUKr8QxB9jxwiR2Pc7UPgoiqhAb3MYJqNOMpGLZtKMVb4ASXAXJ66D3cRidnzIpxlfhBUeXzNPFHE_LEk3HvZ7XOTcJqdjBlYScGTMKCwA.m3u8?u=1756878715 
 #EXTINF:-1,amc
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQcKJgqGv1BzPFE67m_1RcaoG-tKyp2-YGC8GV0Dbc3tcYFNMg0INMyF45g0sUF0qOGHxghDYsSFfGiY_SNWMifqSTADgiSDMJI7l9i6xMjnWkXB1NxvM-Q1f7FPWdZiXsg4gvxp7eUcJm5s65yqLbMiixwV-IiltxnxoSFHKf7SQCqv8r-GnGQ44ioXaFbgxqE_GSivfUTdymnqwcdy2bQ.m3u8?u=1756878715 
-#EXTINF:-1,未知2
+#EXTINF:-1,FGM
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUdt63uRz89giBm7SDjL0rv_KIdlQpdfaweHkEsMjRcTyWTkmAIamofG98HLLqS4XBWxsniylZYS7fe6pFNArqo0f0J-Kj1AlMRca1-YhPCzr681fFSeWw3K7yUsq83pV0eQ8BGMO5u504Gx0F3i0idCNTAEgDMieA4qfFwX_KNxMlhj8nMzbVmMu_7fV8ErhRdhVn3_mV68JYghmp1pXq_oUrHHWxJP6NqDWale926w8.m3u8?u=1756878715
 #EXTINF:-1,TVB PLUS
 https://o11.163189.xyz/stream/tvb/tvbp/
@@ -77,10 +81,6 @@ https://o11.163189.xyz/stream/tvb/tvbp/
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1,NOW新闻台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1,美亚电影台(HK)
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvaoH1tVvTVFB-LNSroC3TB4e-G4J0_FskZShxUWMyH9uJYaRIwHRL6wYYZgzP4oYzUwM9mAAb43rbcE6A101tSdQTvpkab3j4Rfqs5AJmVEZpyj3hn468_CHMpi85T1NLENmAikRcKWC1Jgov5RzFUviWRejdWA8Kb1M1t4kYy-GDX1UpfEsgVho2wBWM3k__5QVLPIkO8g-v0fMV8I04g.m3u8?u=1756878715 
-#EXTINF:-1,美亚电影台（tw)
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg7I_bJVd6PHJW3O_8iuClaQv2fxz8fALRe2T-ogJ87ijCaxVOZ2bPDU19OAfHCuEH7pEtEyKaC5fQH83IQFKgtzrNJs9sRA_ZWtz7f_P7qo6AVu7NZkTmspa9rvOsdfPbS3JVHYZdD3YmQ4z04QanKIzTOcWRQ2fiCKdxZJI0HMUUxB1RvwrIu6Fs_jphyt87A.m3u8?u=1756878715 
 #EXTINF:-1,星空卫视
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUtqn72bh5ByEeN1pGwfgL_0eCAgaEJFGBPspm-seoyRo7vNb6SdZ-q-JTbv5u4EKBU0W_xo7GSguujxhA00O-vPpCxMEWNUve3PFs8Xp7OldxjjM1_7zOh0YH-Kpa5qF5SEkniznfLh8Uhg4YvtJjIiQYyf7_plHuOfYMhgX5NFRK07U-gLPTMJm0jcnTHJbIzTk14kWTmc--Kp5qNJmNtg.m3u8?u=1756878715 
 #EXTINF:-1,澳门澳视
@@ -89,8 +89,6 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyj9WnUXorByJnTJc-i4mhyFvTu1PnYj_mlPrdTK-IhXnJEWUhl7A-O6Yibl-9DI7LmoFvsy175Em0tTJL1QbF0G45ntypZWENIJFBNVRMWUdhTjTPFc02qdguAFwJMO04UndsXDXK_eCUi5Ft_68OWmsN6kuWq8igNtDIYNbLnv0RkVd-N7ekvxRYZ2-_PpyYw.m3u8?u=1756878715
 #EXTINF:-1,TVBS新闻台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LymUZNT2bmlxSvQ4cHRLiJ2fe2MaJc9Z6qOVHYbAImRKurKFLRanLJEjwLLytJ5msriMu78zUItpIgJjRN_mEajAeMurzBNZ6hoCeXJs5WQzLW-nmSuRFnv4FyYXnpB2GHc0J8Pp4HFKFRkpYhUW4r4qIZGA-BhwepMx06F0exFTlBdJ4GjyCsLcmGsAfpOI7YQ.m3u8?u=1756878715
-#EXTINF:-1,天映频道
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUpZ57DWtawgDqgk9ACxtn4jiBP0cerBARIchLkr3toabErFqZtDM11akY90Jbm38K8WFN9oD2PoGDKPsA4tPueSeYEuvDzdDnU0eiD_pai2CpkZaWN77jSqsyg-1kueGxVbEurlDxT61NOkMysqEK9tEAmNsnrDuGJ85x52916g7BhJMHxUgrPucj8vNJVkacMpDsecyLVNDFKfczbBFE7g.m3u8?u=1756878715
 #EXTINF:-1,翡翠台
 https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1,astro AOD
@@ -101,10 +99,6 @@ https://o11.163189.xyz/stream/live/aec/
 https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1,爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1,PHK31
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUCgUMFxpvqA8dSUYiU4X7yHIdDC1SKaLMnZAHxKXXjN1orwY6nPIVQMvH3Yh-FWw6SfhDlmpPF3LKPGXer140L5SPCRHkZQjACiXiICgrjmoL6LOFgfj9imF_Gw0vR0uIaFjmIueVYU4nJiupZsh9dt4Glzgyb8tGP61nUaXDdVYa1t9mzGvV1Qk8YJWdRDWJgoJ8Qg-DcgdMycgfmip1_g.m3u8?u=1756878715
-#EXTINF:-1,PHK32
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUIOHDJk3ziIb3g4W__5ukhdlwmkKymkgIHcxFosW2veerLYqHcSrwQro7VRdHepvJ9gZOhFPx4xR_g_HaRL8GZ9FgxkEOj5enSKaUBgbAgU7klRA9b-B6AaFoat5duOspG_Ss2ZngB_eVDwdb-v0T6qKqySxGQrNzB6ka6iYRhiCN2i87a7iW9pvFWPMV2j-aaw83SxwsU_zao-skEJzkJw.m3u8?u=1756878715
 #EXTINF:-1,天映频道（国语）
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUpZ57DWtawgDqgk9ACxtn4vc8tNib6vhl1tbTES2mBo7rzvlORZklfQoDf3IGAtc5S_NfcG_zouZVVY8S5UHcY0b2GzpO7Zlu9qXMQaZfiaaR1v4S52JJFHiNyFA2IL-K5KiW5pFkk5A4y2BkyI7t0cwiURlEP2GBA_0ozzKqEiC92DRXWRt5juxuSxGQZo44tsZQ11v9BFq_bQ9NH72Bsw.m3u8?u=1756878715
 #EXTINF:-1,TVB星河（国语）
@@ -238,6 +232,7 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUXAnmphCtZR1YClD6cXB0Ma362ZfPzxWO__ZUFEEjWAfHXKuKAGTrycdLYEpOrFPq6BlTYwr-wBU1R9iw2qVM6zBuY8m9taE0hhIWsbMejtZXZLTsSKk662LiKGPmx5XA-fJr6s-s9VSHoYpck7b42DBw4HFITARAHTWQlmj89RGweSouDjQyqVarWHyBa2me6AETE_Ynvzn-Lh3qKSvXPg.m3u8?u=1756878715
 #EXTINF:-1,HBSlgnatur
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUjMEYXWkbyp5-txde1_eMJPZLsTsa_OZPkTVi0XyzrqlWItH-McDS89L0b7LaXQEdRYca9xkiA8dMcw8EJ_oA7ze-jigymcW79PhJVrU8i34JXZe_XE488hxiMIq23u1pLBySXDSxK70odES75fX824s2mK9d9X_Zj2ndmo7XNJcc-XEuA3Tg2rkmZQX2XbnBIreqRndZmeqCXUvX3zirhw.m3u8?u=1756878715
+
 
 
 
