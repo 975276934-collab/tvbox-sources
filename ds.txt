@@ -537,8 +537,6 @@ https://cdn6.163189.xyz/163189/fhzw
 https://ytb.178.indevs.in/?id=fN9uYWCjQaw
 #EXTINF:-1,凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1,美亚电影台
-http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1,翡翠台
 http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 #EXTINF:-1,澳门莲花
@@ -553,8 +551,6 @@ https://cdn6.163189.xyz/163189/asam
 https://cdn6.163189.xyz/163189/as
 #EXTINF:-1,緯來電影
 http://iptv.4666888.xyz/iptv2A.php?id=40
-#EXTINF:-1,東森电影
-http://iptv.4666888.xyz/iptv2A.php?id=48
 #EXTINF:-1,东森洋片
 https://hls.iill.top/api/dsyp/index.m3u8
 #EXTINF:-1,TVBS新聞
@@ -565,7 +561,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 http://r.jdshipin.com/62WM7
 #EXTINF:-1,华丽翡翠台
 http://r.jdshipin.com/thuYX
-MYTV黃金翡翠
+#EXTINF:-1,MYTV黃金翡翠
 http://iptv.4666888.xyz/iptv2A.php?id=32
 #EXTINF:-1,TVB翡翠
 http://iptv.4666888.xyz/iptv2A.php?id=34
@@ -599,9 +595,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=36
 http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1,民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1,民视
-http://iptv.4666888.xyz/iptv2A.php?id=55
-EXTINF:-1,天文AOD
+#EXTINF:-1,天文AOD
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1,金鹰卡通
 http://39.135.168.52/wh7f454c46tw1175046849_-1116589190/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8?icpid=88888888&RTS=1759541902&from=20&hms_devid=18451&prioritypopid=20&online=1759541902&vqe=3
