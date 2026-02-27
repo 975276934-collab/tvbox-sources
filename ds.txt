@@ -595,7 +595,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=36
 http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1,民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1,天文AOD
+#EXTINF:-1,Astro AOD
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1,金鹰卡通
 http://39.135.168.52/wh7f454c46tw1175046849_-1116589190/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8?icpid=88888888&RTS=1759541902&from=20&hms_devid=18451&prioritypopid=20&online=1759541902&vqe=3
