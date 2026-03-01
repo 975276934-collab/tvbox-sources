@@ -447,10 +447,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227063/index.m3u8
 http://live.wuzhourm.cn:80/xwzh/index.m3u8
 #EXTINF:-1,梧州教育生活
 http://live.wuzhourm.cn:80/jysh/index.m3u8
-#EXTINF:-1,环球电视台
-http://utv1.hqtvzb.com:9999/hls/world.m3u8
-#EXTINF:-1,财富天下
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226334/index.m3u8
+#EXTINF:-1,财富天下http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226334/index.m3u8
 #EXTINF:-1,乐游
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
 #EXTINF:-1,环球旅游
@@ -553,6 +550,10 @@ http://mytv.cdn.loc.cc/o12.php?id=fct
 http://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1,天映经典
 https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1,东森电影
+https://nimabi.goiptv.de5.net/ettvmovie.m3u8
+#EXTINF:-1,龍华电影
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang03
 #EXTINF:-1,翡翠台（台湾）
 http://r.jdshipin.com/62WM7
 http://iptv.4666888.xyz/iptv2A.php?id=32
