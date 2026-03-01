@@ -537,8 +537,6 @@ https://cdn6.163189.xyz/163189/fhzw
 https://ytb.178.indevs.in/?id=fN9uYWCjQaw
 #EXTINF:-1,凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1,翡翠台
-http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 #EXTINF:-1,澳门莲花
 http://cdn6.163189.xyz/163189/amlh
 #EXTINF:-1,澳门综艺
