@@ -19,6 +19,10 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715 
 #EXTINF:-1,亚美电影台
 http://pull-vivek.speedws.com/live/aaamydy.flv
+#EXTINF:-1,东森电影
+https://nimabi.goiptv.de5.net/ettvmovie.m3u8
+#EXTINF:-1,龍华电影
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang03
 #EXTINF:-1,mytv SUPER
 http://pull-vivek.speedws.com/live/aaamqxjd.flv
 #EXTINF:-1,SUPER FREE
