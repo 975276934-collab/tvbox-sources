@@ -549,14 +549,42 @@ http://cdn6.163189.xyz/163189/amty
 https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1,澳门卫星
 https://cdn6.163189.xyz/163189/as
-#EXTINF:-1,緯來電影
-http://iptv.4666888.xyz/iptv2A.php?id=40
-#EXTINF:-1,东森洋片
-https://hls.iill.top/api/dsyp/index.m3u8
-#EXTINF:-1,TVBS新聞
-http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1,TVBS精采
-http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1,翡翠台字幕
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1,明珠台字幕
+http://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1,翡翠台4K(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1,翡翠台(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1,TVB PLUS(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1,明珠台(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1,华丽翡翠台(多音轨字幕)
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1,华丽翡翠台(硬字幕)
+http://cdn6.163189.xyz/163189/jade
+#EXTINF:-1,华丽翡翠台(新加坡)
+https://o11.163189.xyz/stream/live/jade/
+#EXTINF:-1,Astro AOD(多音轨字幕)
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1,Astro AEC(多音轨字幕)
+https://o11.163189.xyz/stream/live/aec/
+Astro QJ(多音轨字幕)
+https://o11.163189.xyz/stream/live/qj/
+Astro欢喜台
+https://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1,TVB星河(多音轨字幕)
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1,爱奇艺
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1,千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1,天映频道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1,天映经典
+https://o11.163189.xyz/stream/live/ccm/
 #EXTINF:-1,翡翠台（台湾）
 http://r.jdshipin.com/62WM7
 #EXTINF:-1,华丽翡翠台
