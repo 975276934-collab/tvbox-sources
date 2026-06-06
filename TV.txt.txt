@@ -508,11 +508,11 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226881/1.m3u8?fmt=ts2hl
 #EXTINF:-1,SiTV游戏风云
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226910/1.m3u8?fmt=ts2hls
 #EXTINF:-1,凤凰中文
-https://cdn6.163189.xyz/163189/fhzw
+http://r.jdshipin.com/cCCzW
 #EXTINF:-1,凤凰资讯
-https://ytb.178.indevs.in/?id=fN9uYWCjQaw
+http://r.jdshipin.com/0Rp07
 #EXTINF:-1,凤凰香港
-http://cdn6.163189.xyz/163189/fhhk
+http://r.jdshipin.com/cCCzW
 #EXTINF:-1,澳门莲花
 http://cdn6.163189.xyz/163189/amlh
 #EXTINF:-1,澳门综艺
@@ -523,6 +523,8 @@ http://cdn6.163189.xyz/163189/amty
 https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1,澳门卫星
 https://cdn6.163189.xyz/163189/as
+#EXTINF:-1,明珠台
+http://r.jdshipin.com/jUx8K
 #EXTINF:-1,金鹰卡通
 http://39.135.168.52/wh7f454c46tw1175046849_-1116589190/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8?icpid=88888888&RTS=1759541902&from=20&hms_devid=18451&prioritypopid=20&online=1759541902&vqe=3
 #EXTINF:-1,嘉佳卡通
